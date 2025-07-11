@@ -4,6 +4,8 @@ A modern, responsive e-commerce web application built using React and Vite.
 ## Key Features
 ```
 - Responsive design with a mobile-friendly user interface
+- Header with navigation link for wishlist and shopping cart
+- Footer with copyright and customer support contact
 - Browse a catalog of products on the Home page, with images, prices (INR), and product details
 - View detailed information and images for each product
 - Dynamic vertical scrollbar on the product list page for smooth navigation
