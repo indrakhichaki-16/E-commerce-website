@@ -9,6 +9,11 @@ A Node.js/Express backend API for the ShoppyGlobe e-commerce application with Mo
 - **Error Handling** - Comprehensive error handling and validation
 - **Product Management** - Fetch products from external API and store in database
 
+## Github repository link
+```
+https://github.com/indrakhichaki-16/E-commerce-website/tree/main/backend
+```
+
 ## Project Structure
 ```
 backend/
@@ -147,4 +152,5 @@ The API includes comprehensive error handling:
 - **JWT** - Authentication
 - **CORS** - Cross-origin resource sharing
 - **dotenv** - Environment variables
+
 
